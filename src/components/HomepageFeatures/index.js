@@ -4,32 +4,29 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Windows',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        <a href="https://github.com/clepnid/clepnid_win_64/releases/tag/v3.3.0">Link</a>
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Linux',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        <a href="https://github.com/clepnid/clepnid_linux_64/releases/tag/v3.1.4">Link</a>
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Mac Os',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        <a href="https://github.com/clepnid/clepnid_macOsx_64/releases/tag/v3.1.3">Link</a>
       </>
     ),
   },
