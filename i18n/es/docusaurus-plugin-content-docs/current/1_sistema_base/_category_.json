@@ -1,0 +1,8 @@
+{
+  "label": "Sistema Base",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Sistema para compartir portapapeles en red local y sistema web"
+  }
+}

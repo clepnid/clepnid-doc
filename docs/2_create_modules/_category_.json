@@ -1,0 +1,8 @@
+{
+  "label": "Create Modules",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Start creating your own web modules, composed of a web page contained in a folder that includes a JSON configuration file."
+  }
+}

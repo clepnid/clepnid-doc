@@ -29,7 +29,15 @@ const config = {
   // to replace "en" with "zh-Hans".
   i18n: {
     defaultLocale: 'en',
-    locales: ['en'],
+    locales: ['en', 'es'],
+    localeConfigs: {
+      en: {
+        label: 'English',
+      },
+      it: {
+        label: 'Español',
+      },
+    },
   },
 
   presets: [
@@ -70,6 +78,10 @@ const config = {
           src: 'img/logo.gif',
         },
         items: [
+          {
+            type: 'localeDropdown',
+            position: 'left',
+          },
           {
             type: 'docSidebar',
             sidebarId: 'docsSidebar',

@@ -1,0 +1,8 @@
+{
+  "label": "Base System",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "System for sharing clipboard over a local network and web system"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "Crear módulos",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "Comienza a crear tus propios módulos web, compuestos por una página web contenida en una carpeta que incluye un archivo de configuración JSON."
+  }
+}
